@@ -257,7 +257,7 @@ contract CommonToken is Token {
 
 contract TokoAgus is CommonToken {
 
-  constructor() CommonToken("Toko Agus", "TAG", 8, 1000000) public {}
+  constructor() CommonToken("Toko Agus", "TAG", 18, 30000) public {}
 
 
 }
