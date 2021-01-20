@@ -255,9 +255,9 @@ contract CommonToken is Token {
 }
 
 
-contract TokoAgus is CommonToken {
+contract TokenesiaID is CommonToken {
 
-  constructor() CommonToken("Toko Agus", "TAG", 18, 30000) public {}
+  constructor() CommonToken("Tokenesia.ID", "TID", 8, 1000000) public {}
 
 
 }
