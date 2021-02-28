@@ -1,7 +1,7 @@
 pragma solidity  ^0.5.14;
 
 
-contract TokenTRC20 {
+contract TokenesiaID {
 
 
   string public name;
