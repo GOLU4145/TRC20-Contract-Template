@@ -1,11 +1,13 @@
 # trc20-smart-contract
 trc20 smart contract
 
-solidity 0.5.14
+solidity 0.5.12
 
 optimized yes with runs 200
 
-license none
+license MIT
+
+Burn Function: Yes!
 
 ⚠️ You need ~800k energy for deploy any contract!
 
